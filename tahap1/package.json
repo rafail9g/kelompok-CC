@@ -1,0 +1,9 @@
+{
+  "name": "smartcity-cuaca-jember",
+  "version": "1.0.0",
+  "description": "Status Sensor Cuaca Kota Jember - Container Awakening",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
